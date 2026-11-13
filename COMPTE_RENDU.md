@@ -1,6 +1,6 @@
 # Compte rendu : tester, sécuriser et appeler l'API LogiAI
 
-**Nom :** Flija **Groupe :** 4
+**Nom :** Mazouzi Inass **Groupe :** 4
 
 ## 1. Casser son API (activité 1)
 | Cas | Requête (corps ou URL) | Prévu | Obtenu |
@@ -93,4 +93,3 @@ async function appelerApi(livraison, cle) {
    N'importe quel client (curl, script, autre programme) peut envoyer une requête sans passer par la page. L'API doit donc valider elle-même toutes les données reçues.
 
 ## 6. Lien de la pull request
-https://github.com/khadijafl/Atelier4/pull/1
