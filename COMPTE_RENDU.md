@@ -1,6 +1,6 @@
 # Compte rendu : tester, sécuriser et appeler l'API LogiAI
 
-**Nom :** Flija **Groupe :** 4
+**Nom :** Mazouzi Inass **Groupe :** 4
 
 ## 1. Casser son API (activité 1)
 | Cas | Requête (corps ou URL) | Prévu | Obtenu |
